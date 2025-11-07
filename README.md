@@ -11,10 +11,24 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there, I'm Jing T 👋
+# Hi there, I'm Jing T
 
 ## 🚀 About Me
-Passionate about building robust automation workflows, backend tooling, and smart home solutions. I enjoy solving performance bottlenecks and designing systems that make development and deployment seamless.
+Passionate about building reliable automation pipelines, developer tooling, and smart home systems, with a strong interest in solving performance bottlenecks and designing seamless development and deployment workflows.
+
+---
+
+## 🌟 Highlights
+
+- **Major Contributor to the [ZCL Advanced Platform (ZAP)](https://github.com/project-chip/zap/)**  
+  - Led frontend (Vue.js/Quasar) and backend (Node.js) feature development for this open-source configuration and code-generation tool used throughout the **Zigbee** and **Matter** IoT ecosystem.
+  - Designed and implemented a runtime database caching mechanism, improving generation and execution performance by ~30%.
+
+- **Release Engineering Lead for ZAP**  
+  - Architected cross-platform release automation pipelines using GitHub Actions and Jenkins CI, distributing production artifacts via Sonatype Nexus and internal release channels.
+
+- **Smart Home Protocol Standards Implementation**  
+  - Implemented GBCS and Zigbee protocol specifications to improve cross-device interoperability and support certification compliance across smart home ecosystems.
 
 ---
 
@@ -28,25 +42,9 @@ Passionate about building robust automation workflows, backend tooling, and smar
 
 ---
 
-## 🌟 Highlights
-
-- Automated cross-platform release management for the ZAP tool using GitHub workflows, integrated with Jenkins CI and Sonatype Nexus for efficient artifact distribution.
-- Developed backend business logic and tooling for the ZAP ecosystem using Quasar and Electron.
-- Designed and implemented a site-wide caching solution for the Zigbee onboarding application, significantly improving performance.
-- Reduced AWS-based release pipeline runtime by 40 minutes through staged software caching within GitHub Actions, Jenkins CI, and Nexus.
-- Built new UI features and business logic for Simplicity Studio (Java/Eclipse), streamlining customer onboarding.
-- Enhanced IoT and Smart Home capabilities, focusing on Zigbee protocol and achieving GBCS certification compliance.
+- 📫 How to reach me: jingbeta AT gmail DOT com
 
 ---
-
-## 📂 Featured Projects
-
-- **ZAP Tool Release Automation:** Streamlined and automated release processes for internal and external stakeholders.
-- **Zigbee Onboarding App:** Performance-optimized onboarding solution for smart home device ecosystems.
-- **Simplicity Studio Enhancements:** Improved user experience and compliance for flagship customer onboarding platform.
-
----
-
 <!-- Fun fact or hobbies can be added here if desired! -->
 
-Thanks for visiting my profile! Feel free to explore my repositories or connect for collaboration.
+Thanks for visiting my profile! Feel free to connect or reach me at jingbeta AT gmail DOT com for collaboration.
