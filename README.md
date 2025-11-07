@@ -41,10 +41,6 @@ Passionate about building reliable automation pipelines, developer tooling, and 
 - **Frontend & Tooling:** Eclipse IDE, UI feature design
 
 ---
-
-- 📫 How to reach me: jingbeta AT gmail DOT com
-
----
 <!-- Fun fact or hobbies can be added here if desired! -->
 
 Thanks for visiting my profile! Feel free to connect or reach me at jingbeta AT gmail DOT com for collaboration.
